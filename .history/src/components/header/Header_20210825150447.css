@@ -1,0 +1,7 @@
+.header {
+  display: flex;
+  justify-content: center;
+}
+.item {
+  margin: 15px;
+}
